@@ -7,4 +7,4 @@ CISCO SKILLS FOR ALL: https://skillsforall.com
 
 DATACAMP: https://app.datacamp.com
 
-https://www.w3schools.com
+W3SCHOOLS: https://www.w3schools.com

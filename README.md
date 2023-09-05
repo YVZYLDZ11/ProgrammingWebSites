@@ -14,3 +14,5 @@ FREECODECAMP: https://www.freecodecamp.org/learn/
 MICROSOFT LEARN: https://learn.microsoft.com/en-us/ 
 
 TRYHACKME: https://tryhackme.com
+
+https://www.edx.org

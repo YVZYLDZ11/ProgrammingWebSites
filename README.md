@@ -17,4 +17,4 @@ TRYHACKME: https://tryhackme.com
 
 EDX: https://www.edx.org
 
-HACKERRANK: 
+HACKERRANK: https://www.hackerrank.com

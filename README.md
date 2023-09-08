@@ -23,4 +23,4 @@ GOOGLE CLOUD: https://cloud.google.com/?hl=tr
 
 STACKOVERFLOW: https://stackoverflow.com
 
-https://www.geeksforgeeks.org
+GEEKSFORGEEKS: https://www.geeksforgeeks.org

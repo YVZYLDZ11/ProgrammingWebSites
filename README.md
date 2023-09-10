@@ -24,3 +24,5 @@ GOOGLE CLOUD: https://cloud.google.com/?hl=tr
 STACKOVERFLOW: https://stackoverflow.com
 
 GEEKSFORGEEKS: https://www.geeksforgeeks.org
+
+https://www.tutorialspoint.com/index.htm

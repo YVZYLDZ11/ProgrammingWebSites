@@ -26,3 +26,5 @@ STACKOVERFLOW: https://stackoverflow.com
 GEEKSFORGEEKS: https://www.geeksforgeeks.org
 
 TUTORIALSPOINT: https://www.tutorialspoint.com/index.htm
+
+https://www.sqltutorial.org

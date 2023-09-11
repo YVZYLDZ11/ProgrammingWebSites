@@ -27,4 +27,4 @@ GEEKSFORGEEKS: https://www.geeksforgeeks.org
 
 TUTORIALSPOINT: https://www.tutorialspoint.com/index.htm
 
-https://www.sqltutorial.org
+SQL TUTORIAL: https://www.sqltutorial.org

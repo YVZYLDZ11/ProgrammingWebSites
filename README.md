@@ -30,3 +30,5 @@ TUTORIALSPOINT: https://www.tutorialspoint.com/index.htm
 SQL TUTORIAL: https://www.sqltutorial.org
 
 FLUTTER DEV: https://docs.flutter.dev
+
+PYTHON TUTORIAL: 

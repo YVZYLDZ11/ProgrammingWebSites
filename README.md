@@ -31,4 +31,4 @@ SQL TUTORIAL: https://www.sqltutorial.org
 
 FLUTTER DEV: https://docs.flutter.dev
 
-PYTHON TUTORIAL: 
+PYTHON TUTORIAL: https://www.pythontutorial.net
